@@ -1,9 +1,9 @@
 :root {
-  --primary: #da2f04;
-  --secondary: #33670a;
-  --background: #fffaee;
-  --border: #ccc;
-  --font: Pacifico, cursive, sans-serif;
+  --primary: #008080; /* Teal */
+  --secondary: #0057b8; /* Blue */
+  --background: #f7fafd; /* Light blue/gray */
+  --border: #e0e7ef; /* Soft border */
+  --font: 'Quicksand', 'Pacifico', cursive, sans-serif;
 }
 
 * {
@@ -13,7 +13,7 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   background-color: var(--background);
 }
 
