@@ -5,6 +5,3 @@ dist/
 coverage/
 .vscode/
 routeTree.gen.ts
-coverage
-
-un.html

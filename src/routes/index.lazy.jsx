@@ -8,7 +8,7 @@ function Index() {
   return (
     <div className="index">
       <div className="index-brand">
-        <h1>Pizza My Heart ❤️</h1>
+        <h1>Pizza My Heart</h1>
         <p>Pizza & Art at a location near you</p>
       </div>
       <ul>
